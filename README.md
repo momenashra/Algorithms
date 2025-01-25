@@ -10,10 +10,9 @@ This project uses machine learning algorithms to predict sales for retail produc
 - NumPy
 4. Installation Instructions
   # Clone the repository
-git clone https://github.com/momenashra/Data_science/tree/time-series-forecasting
-
-# Navigate into the project directory
-cd /momenashra/Data_science
+git clone https://github.com/momenashra/Data_science.git
+  # Checkout to task branch (time-series-forecasting)
+git checkout time-series-forecasting
 
 # Install dependencies
 pip install -r requirements.txt
