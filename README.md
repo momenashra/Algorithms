@@ -20,7 +20,9 @@ pip install -r requirements.txt
 
 5. Features :
 Predicts future sales based on historical data.
+
 Handles data preprocessing and feature engineering automatically.
+
 Provides performance metrics like MAE for both high and low sales depending on custom metrices .
 
 If you have any questions, feel free to contact me at momena.muhammed490@gmail.com 
