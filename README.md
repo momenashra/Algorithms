@@ -1,4 +1,4 @@
-1. Project Title
+1. Project :
 Machine Learning and Deep learning Models for Predicting Sales
 2. Project Description
 This project uses machine learning algorithms to predict sales for retail products based on historical data. The model leverages various features such as product category, location, and time of year.
